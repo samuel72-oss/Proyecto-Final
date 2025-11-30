@@ -13,6 +13,10 @@ int main() {
 
     int opcion = 0;
 
+    cout<<"\t     BIENVENIDO AL PROGRAMA MS"<<endl;
+    cout<<"Por favor todo lo que vayas a ingresar no debe tener espacios"<<endl;
+    cout<<"\tPuedes separarlo con un guion bajo ´_´\n"<<endl;
+
     while (opcion != 8) {
         cout<< "\n===== MENU INVENTARIO =====\n";
         cout<<"1. Agregar componente"<<endl;
