@@ -6,6 +6,9 @@
 class InventoryManager : public Component {
     public:
         int alerta;
-        void agregar();
-        void eliminar();
-}
+        void agregar(Component &inv);
+        void eliminar(Component &inv);
+        void modificar(Component &inv);
+};
+
+#endif

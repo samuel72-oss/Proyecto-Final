@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProyectoFinal.dir/src/Component.cpp.o CMakeFiles/ProyectoFinal.dir/src/DatabaseManager.cpp.o CMakeFiles/ProyectoFinal.dir/src/InventoryManager.cpp.o CMakeFiles/ProyectoFinal.dir/src/ReportGenerator.cpp.o CMakeFiles/ProyectoFinal.dir/src/Main.cpp.o -o ProyectoFinal 

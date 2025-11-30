@@ -1,0 +1,3 @@
+/home/squesada/Ejercicios../Proyecto-Final/build/CMakeFiles/ProyectoFinal.dir
+/home/squesada/Ejercicios../Proyecto-Final/build/CMakeFiles/edit_cache.dir
+/home/squesada/Ejercicios../Proyecto-Final/build/CMakeFiles/rebuild_cache.dir

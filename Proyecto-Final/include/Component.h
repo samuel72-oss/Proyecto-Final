@@ -3,27 +3,28 @@
 
 #include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
 
 class Component{
-    protected:
+    public:
+        vector<Component> lista;
         string nombre;
         string tipo;
-        int cantidad;
+        string cantidad;
         string ubicacion;
         string fecha_adquisicion;
-    public:
         void setNombre(const string& a);
         void setTipo(const string& b);
-        void setCantidad(int c);
+        void setCantidad(const string& c);
         void setUbicacion(const string& d);
         void setFecha_adquisicion(const string& e);
 
         string getNombre() const;
         string getTipo() const;
-        int getCantidad() const;
+        string getCantidad() const;
         string getUbicacion() const;
-        srting getFecha_adquisicion() const;
+        string getFecha_adquisicion() const;
 
 };
 
