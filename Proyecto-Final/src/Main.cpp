@@ -19,8 +19,8 @@ int main() {
         cout<<"2. Mostrar inventario"<<endl;
         cout<<"3. Buscar por nombre"<<endl;
         cout<<"4. Buscar por tipo"<<endl;
-        cout<<"5. eliminar componente"<<endl;
-        cout<<"6. modificar componente"<<endl;
+        cout<<"5. Eliminar componente"<<endl;
+        cout<<"6. Modificar componente"<<endl;
         cout<<"7. Generar archivo CSV"<<endl;
         cout<<"8. Salir"<<endl;
         cout<<"Seleccione una opción: ";
